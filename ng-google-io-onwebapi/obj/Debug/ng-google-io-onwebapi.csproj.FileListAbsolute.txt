@@ -1,0 +1,14 @@
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\ng-google-io-onwebapi.dll.config
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\ng-google-io-onwebapi.dll
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\ng-google-io-onwebapi.pdb
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\Newtonsoft.Json.dll
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\System.Net.Http.Formatting.dll
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\System.Web.Http.dll
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\System.Web.Http.WebHost.dll
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\Newtonsoft.Json.xml
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\System.Net.Http.Formatting.xml
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\System.Web.Http.xml
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\bin\System.Web.Http.WebHost.xml
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\obj\Debug\ng-google-io-onwebapi.csprojResolveAssemblyReference.cache
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\obj\Debug\ng-google-io-onwebapi.dll
+C:\proj\presentations\TechDays2013\ng-google-io\ng-google-io-onwebapi\obj\Debug\ng-google-io-onwebapi.pdb

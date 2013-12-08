@@ -1,0 +1,27 @@
+<div>
+  <input ng-model="search">
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>
+          <a href="#/project/">
+              <i class="glyphicon glyphicon-plus-sign"></i>
+          </a>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="project in list.projects | filter:search" class="slide">
+        <td>
+          <a href="{{project.url}}" target="_blank">{{project.name}}</a>
+        </td>
+        <td>{{project.description}}</td>
+        <td>
+          <a href="#/project/{{project.id}}"><i class="glyphicon glyphicon-pencil"></i></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
